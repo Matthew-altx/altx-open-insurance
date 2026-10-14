@@ -1,0 +1,4 @@
+# Set this to your own Cloudflare Pages project before deployment.
+name = "your-pages-project"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-09-27"
